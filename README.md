@@ -179,3 +179,12 @@ La siguiente tabla es el resultado de aplicar el método *describe()* al datafra
 
 Algo que podemos apreciar rápidamente de la tabla es que, a pesar de que la media del porcentaje de Población de 15 años o más sin educación básica (SBASC) es de 45.853026%, la media del porcentaje de Población de 15 años o más analfabeta (ANALF) es tan solo de 10.164466%. Esto nos ilustra que, aunque hay una gran cantidad de personas que no cuentan con estudios de nivel básico, todavía han aprendido a leer y escribir por otros medios.
 
+Ahora, como parte de este trabajo, se realizaron algunas graficas, la primera es sobre el porcentaje de municipios por estado con índices de marginación y la segunda sobre el porcentaje de la población, respecto a la población total de cada estado, con índices de marginación:
+
+![grafica sobre el porcentaje de municipios por estado con índices de marginación](/Grafica1.png)
+
+![grafica sobre el porcentaje de la población, respecto a la población total de cada estado, con índices de marginación](/Grafica2.jpg)
+
+Si observáramos solo la primera gráfica de manera individual, podría llevarnos a pensar que tenemos estados con una gran variedad de índices de marginación, donde no necesariamente predomina el "muy bajo". Sin embargo, al verla junto con otra gráfica que analiza este índice de marginación pero con el porcentaje poblacional, podemos llegar a la conclusión de que muchos de los estados tienen una gran cantidad de municipios con un índice de marginación distinto al "muy bajo". Sin embargo, no son lugares con una población abundante, ya que, basándonos en la segunda gráfica, nos muestra que la población catalogada con un índice de marginación "muy bajo" es en su mayoría superior en número en la mayoría de los estados, exceptuando Oaxaca y Chiapas, donde el comportamiento en ambas gráficas se nota similar.
+
+**Link de la libreta con el codigo:** https://colab.research.google.com/drive/1yjHJTtzMOhdgQc7JzGJF3KV5z9maV4uf?usp=sharing
