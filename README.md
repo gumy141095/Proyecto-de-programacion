@@ -187,4 +187,12 @@ Ahora, como parte de este trabajo, se realizaron algunas graficas, la primera es
 
 Si observáramos solo la primera gráfica de manera individual, podría llevarnos a pensar que tenemos estados con una gran variedad de índices de marginación, donde no necesariamente predomina el "muy bajo". Sin embargo, al verla junto con otra gráfica que analiza este índice de marginación pero con el porcentaje poblacional, podemos llegar a la conclusión de que muchos de los estados tienen una gran cantidad de municipios con un índice de marginación distinto al "muy bajo". Sin embargo, no son lugares con una población abundante, ya que, basándonos en la segunda gráfica, nos muestra que la población catalogada con un índice de marginación "muy bajo" es en su mayoría superior en número en la mayoría de los estados, exceptuando Oaxaca y Chiapas, donde el comportamiento en ambas gráficas se nota similar.
 
+Ahora graficaremos la relación del porcentaje de analfabetismo respecto al porcentaje de población en localidades de menos de 5,000 habitantes.
+
+![relación de porcentaje de analfabetismo respecto al porcentaje de poblaciones en localidades de menos de 5,000 habitantes](/Grafica3.jpg)
+
+A simple vista, no parece haber mucha correlación entre las variables analizadas. Si quisiéramos encontrar otra variable que tuviera una buena correlación, podríamos utilizar el coeficiente de correlación entre dos variables para identificar aquella que aparente tener una mayor correlación. Sin embargo, es importante analizar si dicho resultado tiene sentido, ya que como se ha mencionado en clase, pueden existir correlaciones sin sentido debido a la casualidad.
+
+
+
 **Link de la libreta con el codigo:** https://colab.research.google.com/drive/1yjHJTtzMOhdgQc7JzGJF3KV5z9maV4uf?usp=sharing
